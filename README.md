@@ -27,8 +27,6 @@ EDA is the initial step in data analysis that helps understand the structure, pa
 - **Range:** Sizes vary from 1 to 81 per profile ID.
 - **Recommendation:** Improve consistency in data collection and monitor sample sizes regularly.
 
-![Sample Size Trends](path/to/your/image.png) <!-- Replace with the actual path to your image -->
-
 ### Correlation Heatmap
 - **Strong Positives:** Stator components (yoke, tooth, winding) highly correlated (0.86–0.97).
 - **Strong Negatives:** Torque and i_d inversely related (-0.70).
