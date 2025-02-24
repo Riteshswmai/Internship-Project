@@ -1,6 +1,6 @@
 # # Motor Speed Prediction using Machine Learning (Internship-Project)
 
-🔗 LinkedIn Post: (https://linkedin.com/in/yourprofile)  
+🔗 LinkedIn Post: (https://www.linkedin.com/posts/ritesh-kumar-77621b201_ppt-activity-7299685262559756288-jGrY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADN3x4oBqy1t6-ThUlAfiZ8QE7zieXWqnt0)  
 
 ## 📌 Overview
 This project focuses on the Exploratory Data Analysis (EDA) of a Motor Speed Dataset, which contains [1,330,816] rows and 12 key features related to motor performance. The analysis aims to identify patterns, trends, and relationships within the data to enhance predictive modeling.
